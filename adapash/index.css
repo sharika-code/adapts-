@@ -1,0 +1,5 @@
+ul li a{text-transform: capitalize;
+color: white;}
+ul li a:hover{
+    color: rgb(245, 179, 79);
+}
